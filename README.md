@@ -10,9 +10,8 @@ Every result gets a Pass, Warn, Fail, or Error status with a one-line summary, a
 ![Main window](docs/images/main-window.png)
 -->
 
-<!-- Add a screenshot of the exported HTML report here, then uncomment:
-![HTML report](docs/images/html-report.png)
--->
+<img width="979" height="810" alt="image" src="https://github.com/user-attachments/assets/4f4c3b0f-cbe8-4d53-b589-a049c2f63eb6" />
+
 
 ## Requirements
 
